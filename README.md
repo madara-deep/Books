@@ -1,2 +1,2 @@
 # Books
-Exercices and Short Explain for Each Book 
+Exercises and Short Explain for Each Book 
